@@ -1,0 +1,9 @@
+c:\users\pcd\documents\visual studio 2015\Projects\RenameMySongs\RenameMySongs\bin\Release\RenameMySongs.exe.config
+c:\users\pcd\documents\visual studio 2015\Projects\RenameMySongs\RenameMySongs\bin\Release\RenameMySongs.exe
+c:\users\pcd\documents\visual studio 2015\Projects\RenameMySongs\RenameMySongs\bin\Release\RenameMySongs.pdb
+c:\users\pcd\documents\visual studio 2015\Projects\RenameMySongs\RenameMySongs\obj\Release\RenameMySongs.Form1.resources
+c:\users\pcd\documents\visual studio 2015\Projects\RenameMySongs\RenameMySongs\obj\Release\RenameMySongs.Properties.Resources.resources
+c:\users\pcd\documents\visual studio 2015\Projects\RenameMySongs\RenameMySongs\obj\Release\RenameMySongs.csproj.GenerateResource.Cache
+c:\users\pcd\documents\visual studio 2015\Projects\RenameMySongs\RenameMySongs\obj\Release\RenameMySongs.exe
+c:\users\pcd\documents\visual studio 2015\Projects\RenameMySongs\RenameMySongs\obj\Release\RenameMySongs.pdb
+C:\Users\PCD\documents\visual studio 2015\Projects\RenameMySongs\RenameMySongs\obj\Release\RenameMySongs.csprojResolveAssemblyReference.cache
