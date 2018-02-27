@@ -7,3 +7,12 @@ c:\users\pcd\documents\visual studio 2015\Projects\RenameMySongs\RenameMySongs\o
 c:\users\pcd\documents\visual studio 2015\Projects\RenameMySongs\RenameMySongs\obj\Release\RenameMySongs.exe
 c:\users\pcd\documents\visual studio 2015\Projects\RenameMySongs\RenameMySongs\obj\Release\RenameMySongs.pdb
 C:\Users\PCD\documents\visual studio 2015\Projects\RenameMySongs\RenameMySongs\obj\Release\RenameMySongs.csprojResolveAssemblyReference.cache
+C:\Users\PCD\Documents\GitHub\Rename-My-Songs\RenameMySongs\RenameMySongs\bin\Release\RenameMySongs.exe.config
+C:\Users\PCD\Documents\GitHub\Rename-My-Songs\RenameMySongs\RenameMySongs\obj\Release\RenameMySongs.exe
+C:\Users\PCD\Documents\GitHub\Rename-My-Songs\RenameMySongs\RenameMySongs\obj\Release\RenameMySongs.pdb
+C:\Users\PCD\Documents\GitHub\Rename-My-Songs\RenameMySongs\RenameMySongs\bin\Release\RenameMySongs.exe
+C:\Users\PCD\Documents\GitHub\Rename-My-Songs\RenameMySongs\RenameMySongs\bin\Release\RenameMySongs.pdb
+C:\Users\PCD\Documents\GitHub\Rename-My-Songs\RenameMySongs\RenameMySongs\obj\Release\RenameMySongs.csprojResolveAssemblyReference.cache
+C:\Users\PCD\Documents\GitHub\Rename-My-Songs\RenameMySongs\RenameMySongs\obj\Release\RenameMySongs.Form1.resources
+C:\Users\PCD\Documents\GitHub\Rename-My-Songs\RenameMySongs\RenameMySongs\obj\Release\RenameMySongs.Properties.Resources.resources
+C:\Users\PCD\Documents\GitHub\Rename-My-Songs\RenameMySongs\RenameMySongs\obj\Release\RenameMySongs.csproj.GenerateResource.Cache

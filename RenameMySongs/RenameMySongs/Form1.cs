@@ -20,6 +20,20 @@ namespace RenameMySongs
             InitializeComponent();
         }
 
+        public static string rename(string s)
+        {
+            char[] token = { '.' };
+            int i = 0;
+            string[] arr1 = s.Split(token);
+            string New_name = ""; 
+            for(i=0;i<arr1.Length-1;i++)
+            {
+                New_name += Regex.Replace(arr1[i].ToString(), @"[\d-]", string.Empty);                
+            }
+            New_name += "."+ arr1[i];
+            return New_name;
+        }
+
         private void Form1_Load(object sender, EventArgs e)
         {
             di= new DirectoryInfo(AppDomain.CurrentDomain.BaseDirectory);
@@ -46,7 +60,8 @@ namespace RenameMySongs
             {
                 try
                 {
-                    fi.MoveTo(di.FullName + Regex.Replace(fi.Name.ToString(), @"[\d-]", string.Empty));
+                    // fi.MoveTo(di.FullName + Regex.Replace(fi.Name.ToString(), @"[\d-]", string.Empty));
+                    fi.MoveTo(di.FullName + rename(fi.Name.ToString()));
                 }
                 catch (Exception e1)
                 {
@@ -56,7 +71,7 @@ namespace RenameMySongs
 
             }
             if(nm!="")
-             MessageBox.Show("Cannot Rename::" + nm + "\nPossibly beacuse the file already exixt with name of the intended destination filename."+"\n\n"+err);
+             MessageBox.Show("Cannot Rename::" + nm + "\nPossibly beacuse the file already exist with name of the intended destination filename."+"\n\n"+err);
         }
     }
 }
