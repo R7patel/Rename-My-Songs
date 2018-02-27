@@ -68,7 +68,6 @@ namespace RenameMySongs
                     nm += fi.Name + "\n";
                     err = e1.ToString();
                 }
-
             }
             if(nm!="")
              MessageBox.Show("Cannot Rename::" + nm + "\nPossibly beacuse the file already exist with name of the intended destination filename."+"\n\n"+err);
